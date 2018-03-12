@@ -1,0 +1,10 @@
+{
+    "cols": [
+        {"id": "col1", "label": "col1", "type": "string"}, 
+        {"id": "col2", "label": "col2", "type": "number"}, 
+        {"id": "col3", "label": "col3", "type": "number"}], 
+    "rows": [
+        {"c":[{"v":"work"},{"v":8},{"v":3}]}
+    ]
+    
+}

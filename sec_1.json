@@ -1,0 +1,14 @@
+{"cols": 
+    [{"id": "IPODt", "label": "IPODt", "type": "string"}, 
+     {"id": "DivFreq", "label": "DivFreq", "type": "string"}, 
+     {"id": "LiqPrc", "label": "LiqPrc", "type": "number"}, 
+     {"id": "ExDate", "label": "ExDate", "type": "date"}
+    ], 
+     "rows": [
+         {"c": [{"v": "2013-01-29"}, 
+                {"v": "Q"}, 
+                {"v": 25}, 
+                {"v": "Date(2018, 2, 14)", "f": "2/14/18"}
+                ]
+        }
+    ]}

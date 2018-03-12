@@ -1,0 +1,34 @@
+<html>
+  <head>
+    <!--Load the AJAX API-->
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript">
+        // Load the Visualization API and the piechart package.
+        google.charts.load('current', {'packages':['bar', 'corechart', 'table']});
+        // Set a callback to run when the Google Visualization API is loaded.
+        //google.charts.setOnLoadCallback(drawTable);
+    </script>
+    <style>
+        /* ==== CSS ==== */
+        #table_div{
+            height: 90vh;
+            width: 90%;
+            margin: 10px;
+            
+        }
+    </style>
+  </head>
+
+  <body>
+    <button id="btn-load">Load me</button>
+    <button id="btn-filter">Filter</button>
+    <button id="btn-show">Show</button>
+    <a href="dashboard-example.html">Example</a>
+    <a href="table2.html">Table2</a>
+    <a href="table3.html">Table3</a>
+    <div id="chart_div"></div>
+    <div id="table_div"></div>
+    <div id="data"></div>
+    <script src="table.js"></script>    
+  </body>
+</html>

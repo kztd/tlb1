@@ -1,0 +1,1 @@
+{"cols": [{"id": "col1", "label": "col1", "type": "string"}, {"id": "col2", "label": "col2", "type": "number"}, {"id": "col3", "label": "col3", "type": "number"}], "rows": [["work", 2, 3], ["play", 5, 6]]}
